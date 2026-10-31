@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/portfoliokit/actions/workflows/python-checks.yml/badge.svg)
+
 # Portfolio Kit
 
 Generate a Markdown inventory of immediate project folders and files.
